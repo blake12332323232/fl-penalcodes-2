@@ -586,7 +586,6 @@ code,title,type,bondType,bondAmount,jailTime
 847.06,Transporting Obscene Matter Into State,Felony,Surety Bond,5000,5Y
 847.07,Wholesale Promotion of Obscene Materials,Felony,Surety Bond,5000,5Y
 847.201,Obscene Cable Programming,Felony,Surety Bond,5000,5Y
-
 849.01,Keeping Gambling House,Felony,Surety Bond,5000,5Y
 849.02,Employee of Gambling House,Felony,Surety Bond,5000,5Y
 849.03,Renting Property for Gambling,Felony,Surety Bond,5000,5Y
@@ -605,18 +604,15 @@ code,title,type,bondType,bondAmount,jailTime
 849.233,Penalty for Gambling Device Possession,Felony,Surety Bond,5000,5Y
 849.25,Bookmaking,Felony,Surety Bond,5000,5Y
 849.251,Dog Racing Wagering Violations,Felony,Surety Bond,5000,5Y
-
 856.011,Disorderly Intoxication,Misdemeanor,Citation Release,250,30D
 856.015,Open House Party Violations,Misdemeanor,Surety Bond,500,60D
 856.021,Loitering or Prowling,Misdemeanor,Surety Bond,500,60D
 856.022,Loitering by Certain Offenders Near Children,Felony,Surety Bond,5000,5Y
 856.04,Desertion or Withholding Support,Felony,Surety Bond,5000,5Y
-
 859.01,Poisoning Food or Water,Felony,No Bail,0,15Y
 859.02,Illegal Sale of Certain Poisons,Felony,Surety Bond,5000,5Y
 859.04,Poison Regulations Violations,Misdemeanor,Surety Bond,500,60D
 859.08,Selling Adulterated Drugs,Felony,Surety Bond,5000,5Y
-
 860.02,Carelessness of Common Carrier,Felony,Surety Bond,5000,5Y
 860.03,Intoxicated Common Carrier Employee,Felony,Surety Bond,5000,5Y
 860.04,Riding Train Without Paying,Misdemeanor,Citation Release,250,30D
@@ -639,7 +635,6 @@ code,title,type,bondType,bondAmount,jailTime
 860.16,Aircraft Piracy,Felony,No Bail,0,15Y
 860.17,Tampering With Motor Vehicles,Felony,Surety Bond,5000,5Y
 860.20,Outboard Motor Identification Violations,Misdemeanor,Surety Bond,500,60D
-
 861.01,Obstructing Highway,Misdemeanor,Citation Release,250,30D
 861.011,Obstructing Transportation Facility,Misdemeanor,Citation Release,250,30D
 861.02,Obstructing Watercourse,Misdemeanor,Surety Bond,500,60D
